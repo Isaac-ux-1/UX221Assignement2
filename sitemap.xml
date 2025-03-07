@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/fennec-fox/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/arctic-fox/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/foxes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/isaac-ux-1/
+        </loc>
+    </url>
+</urlset>
